@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1arithmeticexamples"
+        android:title="@string/arithmeticexamples"/>
+
+    <item
+        android:id="@+id/item2actionswithnumbers"
+        android:title="@string/actionswithnumbers"/>
+
+    <item
+        android:id="@+id/item3arrays"
+        android:title="@string/arrays"/>
+
+    <item
+        android:id="@+id/item4triangleexistence"
+        android:title="@string/triangleexistence"/>
+
+    <item
+        android:id="@+id/item5temperature"
+        android:title="@string/temperature"/>
+
+    <item
+        android:id="@+id/item6bodymassindex"
+        android:title="@string/bodymassindex"/>
+</menu>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/clear.xml" value="0.178" />
+        <entry key="app/src/main/res/drawable/cursor.xml" value="0.176" />
+        <entry key="app/src/main/res/drawable/result.xml" value="0.178" />
+        <entry key="app/src/main/res/layout/actionswithnumbers.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1590678824721378" />
+        <entry key="app/src/main/res/layout/arithmeticexamples.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/arrays.xml" value="0.1590678824721378" />
+        <entry key="app/src/main/res/layout/bodymassindex.xml" value="0.1590678824721378" />
+        <entry key="app/src/main/res/layout/edittext.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/menulist.xml" value="0.1015625" />
+        <entry key="app/src/main/res/layout/multiplication.xml" value="0.2857789855072464" />
+        <entry key="app/src/main/res/layout/numberdegrees.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/numberscomparing.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/numbersmultiolication.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/spinner.xml" value="0.31567028985507245" />
+        <entry key="app/src/main/res/layout/temperature.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/triangleexistance.xml" value="0.1590678824721378" />
+        <entry key="app/src/main/res/layout/triangleexistence.xml" value="0.18411552346570398" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.287962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
